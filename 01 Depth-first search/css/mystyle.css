@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.main {
+    background: linear-gradient(#4776e6,#8e54e9);
+    height: 100vh;
+    width: 100%;
+    align-self: center;
+}
+
+.algorithm {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+canvas {
+    height: 50vh;
+    width: 50vh;
+    margin-left: auto;
+}
